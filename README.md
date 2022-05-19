@@ -1,5 +1,6 @@
-### Hi I'm pigtom 👋
+### Hi I'm PigTom 👋
 A full-stack developer with more than four years of working experience.
+It's never too late to learn.
 <!--
 **PigTom-c/PigTom-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
